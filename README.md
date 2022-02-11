@@ -1,5 +1,5 @@
 # MiniSubEnum
-Extra small script to enum subdomains in python. 10 lines of code simple version. 15 lines of code for threads version
+Extra small script to enum subdomains in python. 5 lines of code simple version. 10 lines of code for threads version
 
 ```
 Usage:
